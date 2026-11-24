@@ -19,7 +19,7 @@ I build, automate, and document hybrid cloud and self-hosted environments—brid
 ### 🚀 Featured Projects & Labs
 *(Update these links as you publish sanitized public repositories!)*
 
-* **[Portfolio & Resume](https://github.com)** — Hosted resume, certifications, and architecture overviews
+* **[Portfolio & Resume](https://dawarner96.github.io/)** — Hosted resume, certifications, and architecture overviews
 * **Azure Hub-and-Spoke Networking Lab** *(Coming Soon)* — Automated VNet peering, NSG baselines, and hybrid connectivity via Bicep/Terraform
 * **Self-Hosted Hybrid Infrastructure** — Multi-service Docker stack with split-horizon DNS, automated wildcard TLS, and zero-trust remote access
 
