@@ -1,6 +1,8 @@
-# Hi, I'm David 👋
+# WORK IN PROGRESS
 
-**Cloud & Infrastructure Engineer | Systems Administrator | Homelab Builder**
+## Hi, I'm David 👋
+
+**Systems Engineer Intermediate | Systems Administrator | Homelab Builder**
 
 I build, automate, and document hybrid cloud and self-hosted environments—bridging Microsoft Azure / Entra ID with Linux, Docker, and enterprise-style home networking.
 
