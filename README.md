@@ -24,5 +24,5 @@ I build, automate, and document hybrid cloud and self-hosted environments—brid
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** **[LinkedIn](https://www.linkedin.com/in/david-warner-jr-096/)**
-* **Resume / Website:** [Add Portfolio or GitHub Pages Link]
+* **[LinkedIn](https://www.linkedin.com/in/david-warner-jr-096/)**
+* **[Resume] / Website:** [Add Portfolio or GitHub Pages Link]
